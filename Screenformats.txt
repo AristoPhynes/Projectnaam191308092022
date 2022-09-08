@@ -1,0 +1,11 @@
+Web Most Common - 1366 x 768 px @72 ppi
+Web Large - 1920 x 1080 px @72 ppi
+Web Medium - 1440 x 900 px @72 ppi
+Web Minimum - 1024 x 768 px @72 ppi
+Web Small - 1280 x 800 px @72 ppi
+Macbook Pro 13 (Retina) - 2560 x 1600px @ 72 ppi
+Macbook Pro 15 (Retina) - 2880 x 1800 @ 72 ppi
+iMac 27 - 2560 x 1440 px @ 72 ppi
+Desktop HD Design - 1440 x 1024 px @ 72 ppi
+
+

@@ -1,0 +1,5 @@
+//Totaal Afname resultaat
+Console.WriteLine("Pre Fretboard-constructie Totaal:");
+Console.WriteLine($"Dus je hebt in totaal: {FretAantalBevestigd} Frets en {SnaarAantalBevestigd} Snaren");
+// Bevestiging dat frets en snaren zijn afgenomen
+Console.WriteLine($"Fret-en-snaren-aantallen zijn afgenomen");

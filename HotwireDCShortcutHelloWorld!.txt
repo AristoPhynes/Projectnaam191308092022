@@ -1,0 +1,7 @@
+MODiX
+BOT
+ — 02-08-2022
+Written interactive course https://docs.microsoft.com/en-us/users/dotnet/collections/yz26f8y64n7k07
+Videos https://dotnet.microsoft.com/learn/videos
+
+https://docs.microsoft.com/nl-nl/learn/dotnet/?WT.mc_id=friends-0000-jamont

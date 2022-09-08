@@ -1,0 +1,11 @@
+// Suggestion 1 for solving 155405052022 Desired output:
+//173105052022 - Proof of concept Confirmed - Generates empty Fretboard Gui object from given Readline Statements
+// CTRL + SHIFT + ForwardSlash Content only in the first forloop below in asterisk-quotationnotation.
+for (var row = 0; row < SnaarAantalBevestigd; row++)
+{
+	for (var col = 0; col < FretAantalBevestigd + 1; col++) // FretAantalBevestigd +1 vanwege Fret0, de GitaarStemming.
+        {
+            Console.Write($"{FretOpenend}{NootOnderdeel}{FretSluitend}");
+        }
+		Console.WriteLine();
+}

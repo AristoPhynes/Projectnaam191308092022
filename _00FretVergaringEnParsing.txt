@@ -1,0 +1,17 @@
+// Vergaart aantal frets
+// Slaat die op in FretAantal
+Console.WriteLine("Hoeveel frets heeft je gitaar?");
+string FretAantal = Console.ReadLine(); // voer het fretaantal als getallen in - deze word opgeslagen in een string en moeten geparsed worden naar aantal als int
+Console.WriteLine($"Ah! {FretAantal} dus!"); // herhaling in de vorm van een zin voor bevestiging
+
+// Print een lijn uit die de typewaarde controleerd uit de variabel: FretAantal
+Console.WriteLine(FretAantal.GetType());
+
+// Parsed de string-input vergaard uit de laatste Console.ReadLine(); die opgeslagen zijn in het onderdeel: FretAantal, van String-typewaarde naar int-Typewaarde met onderdeelnaam: FretAantalBevestigd.
+int FretAantalBevestigd = int.Parse(FretAantal);
+
+// Print een lijn uit die de typewaarde controleerd uit de variabel: FretAantalBevestigd.
+Console.WriteLine(FretAantalBevestigd.GetType());
+
+// Console-output van bevestiging
+Console.WriteLine($"{FretAantalBevestigd} Bevestigd als int-waarde");

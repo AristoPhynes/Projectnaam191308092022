@@ -1,0 +1,9 @@
+// Suggestion 2 for solving 155405052022 Desired output:
+// 174505052022 - Proof of concept Confirmed - Generates empty Fretboard Gui object from given Readline Statements
+// CTRL + SHIFT + ForwardSlash Content only in the first LINQ-statement below in asterisk-quotationnotation. [REQUIRES using System.Linq; DUH]
+var rows = SnaarAantalBevestigd;
+var cols = FretAantalBevestigd + 1; // FretAantalBevestigd +1 vanwege Fret0, de GitaarStemming.
+    Enumerable.Range(0, rows)
+        .Select(x => string.Concat(Enumerable.Repeat($"{FretOpenend}{NootOnderdeel}{FretSluitend}", cols)))
+        .ToList()
+        .ForEach(Console.WriteLine);*/

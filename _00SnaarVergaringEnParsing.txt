@@ -1,0 +1,17 @@
+// Vergaart Aantal snaren 
+// Slaat aantal snaren op in SnaarAantal
+Console.WriteLine("Hoeveel snaren heeft je gitaar?");
+string SnaarAantal = Console.ReadLine(); // voer het SnaarAantal als getallen in - deze word opgeslagen in een string en moeten geparsed worden naar aantal als int
+Console.WriteLine($"Zozo, {SnaarAantal} snaren?");
+
+// Print een lijn uit die de typewaarde controleerd uit de variabel: SnaarAantal
+Console.WriteLine(SnaarAantal.GetType());
+
+// Parsed de string-input vergaard uit de laatste Console.ReadLine(); die opgeslagen zijn in het onderdeel: SnaarAantal, van String-typewaarde naar int-Typewaarde met onderdeelnaam: SnaarAantalBevestigd.
+int SnaarAantalBevestigd = int.Parse(SnaarAantal);
+
+// Print een lijn uit die de typewaarde controleerd uit de variabel: SnaarAantalBevestigd.
+Console.WriteLine(SnaarAantalBevestigd.GetType());
+
+// Console-output van bevestiging
+Console.WriteLine($"{SnaarAantalBevestigd} Bevestigd als int-waarde");

@@ -1,0 +1,51 @@
+C()
+C, D, E, F, G, A, B, C 
+
+---
+
+G(♯)
+G, A, B, C, D, E, F♯, G
+
+D(♯,♯)
+D, E, F♯, G, A, B, C♯, D
+
+A(♯,♯,♯)
+A, B, C♯, D, E, F♯, G♯, A
+
+E(♯,♯,♯,♯)
+E, F♯, G♯, A, B, C♯, D♯, E
+
+
+Begin Overlapping
+---
+
+B(♯,♯,♯,♯,♯)
+B, C♯, D♯, E, F♯, G♯, A♯, B
+C♭(♭,♭,♭,♭,♭,♭,♭)
+C♭, D♭, E♭, F♭, G♭, A♭, B♭, C♭
+
+F♯(♯,♯,♯,♯,♯,♯)
+F♯, G♯, A♯, B, C♯, D♯, E♯, F♯
+G♭(♭,♭,♭,♭,♭,♭)
+G♭, A♭, B♭, C♭, D♭, E♭, F, G♭
+
+C#(♯,♯,♯,♯,♯,♯,♯)
+C♯, D♯, E♯, F♯, G♯, A♯, B♯, C♯
+D♭(♭,♭,♭,♭,♭)
+D♭, E♭, F, G♭, A♭, B♭, C, D♭
+
+---
+Einde Overlapping
+
+A♭(♭,♭,♭,♭)
+A♭, B♭, C, D♭, E♭, F, G, A♭
+
+E♭(♭,♭,♭)
+E♭, F, G, A♭, B♭, C, D, E♭
+
+B♭(♭,♭)
+B♭, C, D, E♭, F, G, A, B♭
+
+F(♭)
+F, G, A, B♭, C, D, E, F
+

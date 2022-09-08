@@ -1,0 +1,85 @@
+P1,m2,M2,m3,M3,P4,d5,P5,A5,M6/d7,m7,M7
+1,2,3,4,5,6,7,8,9,10,11,12,
+- Array voor Intervalposities - alleen van toepassing op "welgetemperd klavier" [ Tonica/Grondtoon/Rootnote = soloGrondtoon, Unison/reineprime = duoGrondtoon(1:1), Kleine Secunde(16:15), Grote Secunde(9:8), Kleine Terts(6:5), Grote Terts(5:4), Reine Kwart(4:3), Reine Kwint(3:2), Kleine Sext(8:5), Grote Sext(5:3), Klein Septiem(16:9), Groot Septiem(15:8), Rein Octaaf(2:1) ] 
+
+
+(NAAMKLANK)
+Grondtoon/Rootnote/Tonica
+{Interval naam} = {positieAkkoordCoördinaat0}
+
+(NAAMKLANK)
+{Interval naam} = {positieAkkoordCoördinaat0}, {positieAkkoordCoördinaat1}
+
+(DRIEKLANK)
+{Interval naam} = {positieAkkoordCoördinaat0}, {positieAkkoordCoördinaat1}, {positieAkkoordCoördinaat2}
+
+0, 1, P1 = {eerste Akkoordcoördinaat} Grondtoon / Tonica = C
+1, 2, m2 = {tweede Akkoordcoördinaat} Kleine Secunde = C#/Db
+2, 3, M2 = {tweede Akkoordcoördinaat} Grote Secunde = D
+3, 4, m3 = {tweede Akkoordcoördinaat} Kleine Terts = D#/Eb
+4, 5, M3 = {tweede Akkoordcoördinaat} Grote Terts = E
+5, 6, P4 = {tweede Akkoordcoördinaat} Reine Kwart = F
+6, 7, d5 = {derde Akkoordcoördinaat} Verminderde Kwint = F#/Gb
+7, 8, P5 = {derde Akkoordcoördinaat} Reine Kwint = G
+8, 9, A5 = {derde Akkoordcoördinaat} Overmatige Kwint = G#/Ab
+9, 10, M6/d7 = {vierde Akkoordcoördinaat, Derde Akkoordcoördinaat} Grote Sext = A
+10, 11, m7 = {vierde Akkoordcoördinaat} Mineur Septiem = A#/Bb
+11, 12, M7 = {vierde Akkoordcoördinaat} Groot Septiem = B
+
+(NAAMKLANK)
+Grondtoon/Rootnote/Tonica
+{Interval naam} = {positieAkkoordCoördinaat0}
+zero based indexing
+Majeur = 0, 4, 7
+Mineur = 0, 3, 7
+Sus2 =  0, 2, 7
+Sus4 = 0, 5, 7
+Aug/Overmatig = 0, 4, 8
+Dim/Verminderd = 0, 3, 6
+
+placefiller Rootnote
+(XXXXKLANK)
+{Interval naam} = {positieAkkoordCoördinaat0}, {positieAkkoordCoördinaat1}
+0, 1, P1 = {eerste Akkoordcoördinaat} Grondtoon / Tonica = C
+
+(NAAMKLANK)
+{Majeur naam_Interval} = {positieAkkoordCoördinaat0}, {positieAkkoordCoördinaat1}
+0, 1, P1 = {eerste Akkoordcoördinaat} Grondtoon / Tonica = C
+4, 5, M3 = {tweede Akkoordcoördinaat} Grote Terts = E
+
+(DRIEKLANK00)
+Majeur
+{Majeur naam_Drieklank} = {positieAkkoordCoördinaat0}, {positieAkkoordCoördinaat1}, {positieAkkoordCoördinaat2}
+0, 1, P1 = {eerste Akkoordcoördinaat} Grondtoon / Tonica = C
+4, 5, M3 = {tweede Akkoordcoördinaat} Grote Terts = E
+7, 8, P5 = {derde Akkoordcoördinaat} Reine Kwint = G
+
+(DRIEKLANK01)
+mineur
+{Interval naam} = {positieAkkoordCoördinaat0}, {positieAkkoordCoördinaat1}, {positieAkkoordCoördinaat2}
+0, 1, P1 = {eerste Akkoordcoördinaat} Grondtoon / Tonica = C
+3, 4, m3 = {tweede Akkoordcoördinaat} Kleine Terts = D#/Eb
+7, 8, P5 = {derde Akkoordcoördinaat} Reine Kwint = G
+
+(DRIEKLANK02)
+Sus2
+{Interval naam} = {positieAkkoordCoördinaat0}, {positieAkkoordCoördinaat1}, {positieAkkoordCoördinaat2}
+0, 1, P1 = {eerste Akkoordcoördinaat} Grondtoon / Tonica = C
+2, 3, M2 = {tweede Akkoordcoördinaat} Grote Secunde = D
+7, 8, P5 = {derde Akkoordcoördinaat} Reine Kwint = G
+
+(DRIEKLANK03)
+Sus4
+{Interval naam} = {positieAkkoordCoördinaat0}, {positieAkkoordCoördinaat1}, {positieAkkoordCoördinaat2}
+0, 1, P1 = {eerste Akkoordcoördinaat} Grondtoon / Tonica = C
+5, 6, P4 = {tweede Akkoordcoördinaat} Reine Kwart = F
+7, 8, P5 = {derde Akkoordcoördinaat} Reine Kwint = G
+
+(DRIEKLANK04)
+Aug
+{Interval naam} = {positieAkkoordCoördinaat0}, {positieAkkoordCoördinaat1}, {positieAkkoordCoördinaat2}
+0, 1, P1 = {eerste Akkoordcoördinaat} Grondtoon / Tonica = C
+4, 5, M3 = {tweede Akkoordcoördinaat} Grote Terts = E
+8, 9, A5 = {derde Akkoordcoördinaat} Overmatige Kwint = G#/Ab
+
+

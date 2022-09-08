@@ -1,0 +1,104 @@
+Majeur
+( I )
+( IV )
+( V )
+
+Mineur
+( ii )
+( iii )
+( vi )
+
+Sus2
+( I )
+( II )
+( IV )
+( V )
+( VI )
+
+Sus4
+( I )
+( II )
+( III )
+( V )
+( VI )
+
+Dim
+( VII )
+
+6
+( I )
+( IV )
+( V )
+
+6/9
+( I )
+( IV )
+( V )
+
+m6
+(ii)
+
+m6/9
+( ii )
+
+Maj7
+( I )
+( IV )
+
+Maj7 (9)
+( I )
+( IV )
+
+Maj7 ( 9/13 )
+( I )
+( IV )
+
+7
+( V )
+
+7 (9)
+( V )
+
+min 7
+( ii )
+( vi )
+
+min 7 ( 9 )
+( ii )
+( vi )
+
+min 7 ( 9/11 )
+( ii )
+( vi )
+
+Halfverminderd
+( VII )
+
+Dubbelverminderd
+( VII )
+
+Hardverminderd
+( IV )
+
+7sus2
+( II )
+( V )
+( VI )
+
+7sus4
+( II )
+( III )
+( V )
+( VI )
+
+7Msus2
+( I )
+( IV )
+
+7Msus4
+( I )
+
+9
+( I )
+( IV )
+( V )

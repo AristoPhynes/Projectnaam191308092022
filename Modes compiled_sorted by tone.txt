@@ -1,0 +1,113 @@
+C Ionisch ( Majeur ) 	C, Dm, Em, F, G, Am, Bo
+C Dorisch		Cm, Dm, Eb, F, Gm, Ao, Bb
+C Phrygisch		Cm, Db, Eb, Fm, Go, Ab, Bbm
+C Lydisch		C, D, Em, F#o, G, Am, Bm
+C Myxolydisch		C, Dm, Eo, F, Gm, Am, Bb
+C Aeolisch ( Mineur )	Cm, Do, Eb, Fm, Gm, Ab, Bb
+C Locrisch		Co, Db, Ebm, Fm, Gb, Ab, Bb
+B# Locrisch		B#o, C#, D#m, E#m, F#, G#, A#m
+
+Db Ionisch ( Majeur ) 	Db, Ebm, Fm, Gb, Ab, Bb, Co
+Db Dorisch		Dbm, Ebm, Fb, Gb, Abm, Bbo, Cb
+C# Phrygisch		C#m, D, E, F#m, G#o, A, Bm
+Db Lydisch		Db, Eb, Fm, Go, Ab, Bbm, Cm
+Db Myxolydisch		Db, Ebm, Fo, Gb, Abm, Bbm, B
+C# Aeolisch ( Mineur )	C#m, D#o, E, F#m, G#m, A, B
+C# Locrisch		C#o, D, Em, F#m, G, A, Bm
+
+D Ionisch ( Majeur )	D, Em, F#m, G, A, Bm, C#o
+D Dorisch 		Dm, Em, F, G, Am, Bo, C
+D Phrygisch		Dm, Eb, F, Gm, Ao, Bb, Cm
+D Lydisch		D, E, F#m, G#o, A, Bm, C#m
+D Myxolydisch		D, Em, F#o, G, Am, Bm, C
+D Aeolisch ( Mineur )	Dm, Eo, F, Gm, Am, Bb, C
+D Locrisch		Do, Eb, Fm, Gm, Ab, Bb, Cm
+
+Eb Ionisch ( Majeur )	Eb, Fm, Gm, Ab, Bb, Cm, Do
+Eb Dorisch		Ebm, Fm, Gb, Ab, Bb, Co, Db
+D# Dorisch		D#m, E#m, F#, G#, A#m, B#o, C#
+D# Phrygisch		D#m, E, F#, G#m, A#o, B, C#m
+Eb Phrygisch		Ebm, Fb, Gb, Abm, Bbo, Cb, Dbm
+Eb Lydisch		Eb, F, Gm, Ao, Bb, Cm, Dm
+Eb Myxolydisch		Eb, Fm, Go, Ab, Bbm, Cm, Db
+D# Aeolisch ( Mineur )	D#m, E#o, F#, G#m, A#m, C#, Gb
+D# Locrisch		D#o, E, F#m, G#m, A, B, C#m
+
+E Ionisch ( Majeur )	E, F#m, G#m, A, B, C#m, D#o
+E Dorisch		Em, F#m, G, A, Bm, C#o, D
+E Phrygisch		Em, F, G, Am, Bo, C, Dm
+E Lydisch		E, F#, G#m, A#o, B, C#m, D#m
+E Myxolydisch		E, F#m, G#o, A, Bm, C#m, D
+E Aeolisch ( Mineur )	Em, F#o, G, Am, Bm, C, D
+E Locrisch		Eo, F, Gm, Am, Bb, C, Dm
+
+F Ionisch ( Majeur )	F, Gm, Am, Bb, C, Dm, Eo
+F Dorisch		Fm, Gm, Ab, Bb, Cm, Do, Eb
+E# Phrygisch		E#m, F#, G#, A#m, B#o, C#, D#m
+F Phrygisch		Fm, Gb, Ab, Bb, Co, Db, Ebm
+F Lydisch		F, G, Am, Bo, C, Dm, Em
+F Mixolydisch		F, Gm, Ao, Bb, Cm, Dm, Eb
+F Aeolisch ( Mineur )	Fm, Go, Ab, Bbm, Cm, Db, Eb
+F Locrisch		Fo, Gb, Abm, Bbm, B, Db, Ebm
+
+F# Ionisch ( Majeur )	F#, G#m, A#m, B, C#, D#m, E#o
+Gb Ionisch ( Majeur )	Gb, Abm, Bbm, B, Db, Ebm, Fo
+F# Dorisch		F#m, G#m, A, B, C#m, D#o, E
+Gb Phrygisch		F#m, G, A, Bm, C#o, D, Em
+F# Lydisch		F#, G#, A#m, B#o, C#, D#m, E#m
+Gb Lydisch		Gb, Ab, Bb, Co, Db, Ebm, Fm
+Gb Mixolydisch		Gb, Abm, Bbo, Cb, Dbm, Ebm, Fb
+F# Aeolisch ( Mineur )	F#m, G#o, A, Bm, C#m, D, E
+F# Locrisch		F#o, G, Am, Bm, C, D, Em
+
+G Ionisch ( Majeur )	G, Am, Bm, C, D, Em, F#o
+G Dorisch		Gm, Am, Bb, C, Dm, Eo, F
+G Phrygisch		Gm, Ab, Bb, Cm, Do, Eb, Fm
+G Lydisch		G, A, Bm, C#o, D, Em, F#m
+G Mixolydisch		G, Am, Bo, C, Dm, Em, F
+G Aeolisch ( Mineur )	Gm, Ao, Bb, Cm, Dm, Eb, F
+G Locrisch		Go, Ab, Bbm, Cm, Db, Eb, Fm
+
+Ab Ionisch ( Majeur )	Ab, Bbm, Cm, Db, Eb, Fm, Go
+G# Dorisch		G#m, A#m, B, C#, D#m, E#o, F#
+G# Phrygisch		G#m, A, B, C#m, D#o, E, F#m
+Ab Lydisch		Ab, Bb, Cm, Do,Eb, Fm, Gm
+G# Myxolydisch		G#, A#m, B#o, C#, D#m, E#m, F#
+G# Aeolisch ( Mineur )	G#m, A#o, B, C#m, D#m, E, F#
+Ab Aeolisch ( Mineur )	Abm, Bbo, Cb, Dbm, Ebm, Fb, Gb
+G# Locrisch 		G#o, A, Bm, C#m, D, E, F#m
+
+A Ionisch ( Majeur )	A, Bm, C#m, D, E, F#m, G#o
+A Dorisch		Am, Bm, C, D, Em, F#o, G
+A Phrygisch		Am, Bb, C, Dm, Eo, F, Gm
+A Lydisch		A, B, C#m, D#o, E, F#m, G#m
+A Myxolydisch		A, Bm, C#o, D, Em, F#m, G
+A Aeolisch ( Mineur )	Am, Bo, C, Dm, Em, F, G
+A Locrisch		Ao. Bb, Cm, Dm, Eb, F, Gm
+
+Bb Ionisch ( Majeur )	Bb, Cm, Dm, Eb, F, Gm, Ao
+Bb Dorisch		Bbm, Cm, Db, Eb, Fm, Go, Ab
+A# Phrygisch		A#m, B, C#, D#m, E#o, F#, G#m
+Bb Phrygisch		Bbm, B, Db, Ebm, Fo, Gb, Abm
+Bb Lydisch		Bb, C, Dm, Eo F, Gm, Am
+Bb Myxolydisch		Bb, Cm, Do,Eb, Fm, Gm, Ab
+A# Aeolisch ( Mineur )	A#m, B#o, C#, D#m, E#m, F#, G#
+Bb Aeolisch ( Mineur )	Bb, Co, Db, Ebm, Fm, Gb, Ab
+A# Locrisch		A#o, B, C#m, D#m, E, F#, G#m
+Bb Locrisch		Bbo, Cb, Dbm, Ebm, Fb, Gb, Abm
+
+B Ionisch ( Majeur )	B, C#m, D#m, E, F#, G#m, A#o
+B Dorisch		Bm, C#m, D, E, F#m, G#o, A
+B Phrygisch		Bm, C, D, Em, F#o, G, Am
+B Lydisch		B, C#, D#m, E#o, F#, G#m, A#m
+B Myxolydisch		B, C#m, D#o, E, F#m, G#m, A
+B Aeolisch ( Mineur )	Bm, C#o, D, Em, F#m, G, A
+B Locrisch		Bo, C, Dm, Em, F, G, Am
+
+
+
+
+
+
+
+

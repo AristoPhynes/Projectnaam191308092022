@@ -1,0 +1,9 @@
+```cs
+// code here
+```
+
+```cs
+// Not completely one
+double notCompletelyOne = 0.999999999999999999
+Console.WriteLine(notCompletelyOne)
+```

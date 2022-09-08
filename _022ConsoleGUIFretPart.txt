@@ -1,0 +1,6 @@
+#region Fretonderdeel mockuponderdeel
+// GUI onderdelen voor het bouwen van frets
+string FretOpenend = "|-";
+string NootOnderdeel = "{}"; //op basis van latere bewerkingen worden per fret coördinaten toegepast op deze locatie
+string FretSluitend = "-|";
+#endregion
