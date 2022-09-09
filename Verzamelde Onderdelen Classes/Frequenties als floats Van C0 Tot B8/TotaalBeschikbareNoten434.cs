@@ -1,0 +1,123 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace GuitareokeConsole._01Datasets_FretBoard
+{
+    class TotaalBeschikbareNoten434
+    {
+        //Searchenginesearch "notes to frequencies" = https://pages.mtu.edu/~suits/notefreqs.html
+        //A4 = 440hz is Industriestandaard
+        //Sets die nog afgemaakt moeten worden ( a= 444, 442, 438, 436, 434, 432)
+        // Alle Floats hun data is gezet op de eenheid van hz of Hertz = herhalingen/Trillingen per seconde
+
+        float C0 = 16.13F;
+        float Csharp0orDb0 = 17.09F;
+        float D0 = 18.10F;
+        float DSharp0orEb0 = 19.18F;
+        float E0 = 20.32F;
+        float F0 = 21.53F;
+        float FSharp0orGb0 = 22.81F;
+        float G0 = 24.17F;
+        float GSharp0orAb0 = 25.60F;
+        float A0 = 27.12F;
+        float ASharp0orBb0 = 28.74F;
+        float B0 = 30.45F;
+        float C1 = 32.26F;
+        float CSharp1orDb1 = 34.18F;
+        float D1 = 36.21F;
+        float DSharp1orEb1 = 38.36F;
+        float E1 = 40.64F;
+        float F1 = 43.06F;
+        float FSharp1orGb1 = 45.62F;
+        float G1 = 48.33F;
+        float GSharp1orAb1 = 51.21F;
+        float A1 = 54.25F;
+        float ASharp1orBb1 = 57.48F;
+        float B1 = 60.89F;
+        float C2 = 64.51F;
+        float CSharp2orDb2 = 68.35F;
+        float D2 = 72.42F;
+        float DSharp2orEb2 = 76.72F;
+        float E2 = 81.28F;
+        float F2 = 86.12F;
+        float FSharp2orGb2 = 91.24F;
+        float G2 = 96.66F;
+        float GSharp2orAb2 = 102.41F;
+        float A2 = 108.50F;
+        float ASharp2orBb2 = 114.95F;
+        float B2 = 121.79F;
+        float C3 = 129.03F;
+        float CSharp3orDb3 = 136.70F;
+        float D3 = 144.83F;
+        float DSharp3orEb3 = 153.44F;
+        float E3 = 162.57F;
+        float F3 = 172.23F;
+        float FSharp3orGb3 = 182.47F;
+        float G3 = 193.32F;
+        float GSharp3orAb3 = 204.82F;
+        float A3 = 217.00F;
+        float ASharp3orBb3 = 229.90F;
+        float B3 = 243.57F;
+        float C4 = 258.06F;
+        float CSharp4orDb4 = 273.40F;
+        float D4 = 289.66F;
+        float DSharp4orEb4 = 306.88F;
+        float E4 = 325.13F;
+        float F4 = 344.47F;
+        float FSharp4orGb4 = 364.95F;
+        float G4 = 386.65F;
+        float GSharp4orAb4 = 409.64F;
+        float A4 = 434.00F;
+        float ASharp4orBb4 = 459.81F;
+        float B4 = 487.15F;
+        float C5 = 516.12F;
+        float CSharp5orDb5 = 546.81F;
+        float D5 = 579.32F;
+        float DSharp5orEb5 = 613.77F;
+        float E5 = 650.27F;
+        float F5 = 688.93F;
+        float FSharp5orGb5 = 729.90F;
+        float G5 = 773.30F;
+        float GSharp5orAb5 = 819.28F;
+        float A5 = 868.00F;
+        float ASharp5orBb5 = 919.61F;
+        float B5 = 974.30F;
+        float C6 = 1032.23F;
+        float CSharp6orDb6 = 1093.61F;
+        float D6 = 1158.64F;
+        float DSharp6orEb6 = 1227.54F;
+        float E6 = 1300.53F;
+        float F6 = 1377.86F;
+        float FSharp6orGb6 = 1459.80F;
+        float G6 = 1546.60F;
+        float GSharp6orAb6 = 1638.57F;
+        float A6 = 1736.00F;
+        float ASharp6orBb6 = 1839.23F;
+        float B6 = 1948.59F;
+        float C7 = 2064.46F;
+        float CSharp7orDb7 = 2187.22F;
+        float D7 = 2317.28F;
+        float DSharp7orEb7 = 2455.07F;
+        float E7 = 2601.06F;
+        float F7 = 2755.73F;
+        float FSharp7orGb7 = 2919.59F;
+        float G7 = 3093.20F;
+        float GSharp7orAb7 = 3277.13F;
+        float A7 = 3472.00F;
+        float ASharp7orBb7 = 3678.46F;
+        float B7 = 3897.19F;
+        float C8 = 4128.93F;
+        float CSharp8orDb8 = 4374.44F;
+        float D8 = 4634.56F;
+        float DSharp8orEb8 = 4910.15F;
+        float E8 = 5202.12F;
+        float F8 = 5511.46F;
+        float FSharp8orGb8 = 5839.18F;
+        float G8 = 6186.40F;
+        float GSharp8orAb8 = 6554.26F;
+        float A8 = 6944.00F;
+        float ASharp8orBb8 = 7356.91F;
+        float B8 = 7794.38F;
+    }
+}

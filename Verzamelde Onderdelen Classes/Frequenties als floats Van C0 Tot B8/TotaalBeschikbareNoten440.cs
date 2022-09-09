@@ -1,0 +1,123 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace GuitareokeConsole
+{
+    class TotaalBeschikbareNoten440
+    {
+        //Searchenginesearch "notes to frequencies" = https://pages.mtu.edu/~suits/notefreqs.html
+        //A4 = 440hz is Industriestandaard
+        //Sets die nog afgemaakt moeten worden ( a= 444, 442, 438, 436, 434, 432)
+        // Alle Floats hun data is gezet op de eenheid van hz of Hertz = herhalingen/Trillingen per seconde
+        float C0 = 16.35F;
+        float Csharp0orDb0 = 17.32F;
+        float D0 = 18.35F;
+        float DSharp0orEb0 = 19.45F;
+        float E0 = 20.60F;
+        float F0 = 21.83F;
+        float FSharp0orGb0 = 23.12F;
+        float G0 = 24.50F;
+        float GSharp0orAb0 = 25.96F;
+        float A0 = 27.50F;
+        float ASharp0orBb0 = 29.14F;
+        float B0 = 30.87F;
+        float C1 = 32.70F;
+        float CSharp1orDb1 = 34.65F;
+        float D1 = 36.71F;
+        float DSharp1orEb1 = 38.89F;
+        float E1 = 41.20F;
+        float F1 = 43.65F;
+        float FSharp1orGb1 = 46.25F;
+        float G1 = 49.00F;
+        float GSharp1orAb1 = 51.91F;
+        float A1 = 55.00F;
+        float ASharp1orBb1 = 58.27F;
+        float B1 = 61.74F;
+        float C2 = 65.41F;
+        float CSharp2orDb2 = 69.30F;
+        float D2 = 73.42F;
+        float DSharp2orEb2 = 77.78F;
+        float E2 = 82.41F;
+        float F2 = 87.31F;
+        float FSharp2orGb2 = 92.50F;
+        float G2 = 98.00F;
+        float GSharp2orAb2 = 103.83F;
+        float A2 = 110.00F;
+        float ASharp2orBb2 = 116.54F;
+        float B2 = 123.47F;
+        float C3 = 130.81F;
+        float CSharp3orDb3 = 138.59F;
+        float D3 = 146.83F;
+        float DSharp3orEb3 = 155.56F;
+        float E3 = 164.81F;
+        float F3 = 174.61F;
+        float FSharp3orGb3 = 185.00F;
+        float G3 = 196.00F;
+        float GSharp3orAb3 = 207.65F;
+        float A3 = 220.00F;
+        float ASharp3orBb3 = 233.08F;
+        float B3 = 246.94F;
+        float C4 = 261.63F;
+        float CSharp4orDb4 = 277.18F;
+        float D4 = 293.66F;
+        float DSharp4orEb4 = 311.13F;
+        float E4 = 329.63F;
+        float F4 = 349.23F;
+        float FSharp4orGb4 = 369.99F;
+        float G4 = 392.00F;
+        float GSharp4orAb4 = 415.30F;
+        float A4 = 440.00F;
+        float ASharp4orBb4 = 466.16F;
+        float B4 = 493.88F;
+        float C5 = 523.25F;
+        float CSharp5orDb5 = 554.37F;
+        float D5 = 587.33F;
+        float DSharp5orEb5 = 622.25F;
+        float E5 = 659.25F;
+        float F5 = 698.46F;
+        float FSharp5orGb5 = 739.99F;
+        float G5 = 783.99F;
+        float GSharp5orAb5 = 830.61F;
+        float A5 = 880.00F;
+        float ASharp5orBb5 = 932.33F;
+        float B5 = 987.77F;
+        float C6 = 1046.50F;
+        float CSharp6orDb6 = 1108.73F;
+        float D6 = 1174.66F;
+        float DSharp6orEb6 = 1244.51F;
+        float E6 = 1318.51F;
+        float F6 = 1396.91F;
+        float FSharp6orGb6 = 1479.98F;
+        float G6 = 1567.98F;
+        float GSharp6orAb6 = 1661.22F;
+        float A6 = 1760.00F;
+        float ASharp6orBb6 = 1864.66F;
+        float B6 = 1975.53F;
+        float C7 = 2093.00F;
+        float CSharp7orDb7 = 2217.46F;
+        float D7 = 2349.32F;
+        float DSharp7orEb7 = 2489.02F;
+        float E7 = 2637.02F;
+        float F7 = 2793.83F;
+        float FSharp7orGb7 = 2959.96F;
+        float G7 = 3135.96F;
+        float GSharp7orAb7 = 3322.44F;
+        float A7 = 3520.00F;
+        float ASharp7orBb7 = 3729.31F;
+        float B7 = 3951.07F;
+        float C8 = 4186.01F;
+        float CSharp8orDb8 = 4434.92F;
+        float D8 = 4698.63F;
+        float DSharp8orEb8 = 4978.03F;
+        float E8 = 5274.04F;
+        float F8 = 5587.65F;
+        float FSharp8orGb8 = 5919.91F;
+        float G8 = 6271.93F;
+        float GSharp8orAb8 = 6644.88F;
+        float A8 = 7040.00F;
+        float ASharp8orBb8 = 7458.62F;
+        float B8 = 7902.13F;
+
+    }
+}
