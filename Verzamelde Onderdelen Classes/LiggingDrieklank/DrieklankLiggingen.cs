@@ -9,14 +9,9 @@ namespace GuitareokeConsole.ChordBlock
 
         #region ligging ( volgorde van drieklank-onderdelen )
 
-        TOONLADDER
-        DDORIAANS
-        VIIMajeur
-
-
-        C,E,G
-        E,G,C
-        G,C,E
+        // C,E,G
+        // E,G,C
+        // G,C,E
 
 
         // Stringoutput voor 1e ligging 0, 1, 2
