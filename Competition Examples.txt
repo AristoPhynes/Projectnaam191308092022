@@ -1,0 +1,9 @@
+//Casual Mention
+https://fretastic.com/guitar
+https://fretmap.app/
+https://webaudiodemos.appspot.com/
+
+//Replicate these concepts
+https://www.toptal.com/web/creating-browser-based-audio-applications-controlled-by-midi-hardware
+https://www.keithmcmillen.com/blog/making-music-in-the-browser-web-midi-api/
+https://tangiblejs.com/posts/web-midi-music-and-show-control-in-the-browser

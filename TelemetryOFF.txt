@@ -1,0 +1,20 @@
+Start by pressing Win + I and navigate to 
+Privacy & security > Diagnostics & feedback. 
+Toggle the button beside Send optional diagnostic data off.
+
+--
+
+To launch the Group Policy Editor, press Win + R, type gpedit.msc, and press Enter. 
+Use the left sidebar to navigate to 
+Computer Configuration > Administrative Templates > Windows Components > Data Collection and Preview Builds.
+
+Switch to the right pane and double-click Allow Diagnostic Data. 
+Note that if you're on Windows 10 (and not Windows 11), `
+you'll see Allow Telemetry as a listed setting instead of Allows Diagnostic Data.
+
+Once you double-click, a window should pop up. 
+By default, it's set to Not Configured. 
+Select Disabled instead and click OK.
+
+--
+
