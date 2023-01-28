@@ -1,0 +1,173 @@
+https://www.youtube.com/watch?v=EgpKu1tAVMY
+
+9 Things I Wish I Knew When I Started Programming
+180.132 weergaven
+•17 feb. 2019
+
+6,6K
+144
+
+
+https://www.youtube.com/watch?v=gdSlcxxYAA8
+The Art of Code
+199.599 weergaven
+•21 dec. 2019
+
+{
+[ T, B2, 2, m3, M3, p4, b5, P5, m6, M6/b7, 7, O, b9, 9, 10, 11, 12, 13,] 
+[ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13 ]
+['C' , 'C#/bD', 'D', 'D#/Eb', 'E', 'F', 'F#/bG', 'G', 'G#/bA', 'A', 'A#/bB', 'B', 'C', 'C#/bD', 'D', ]
+}
+
+
+{ for leesabilitiepuposses 
+Chord/line consists of
+[   T,      B2,     2,      m3,     M3,     p4,     b5,     p5      m6,     M6/b7,  7,      O,                          ] 
+[   0,      1,      2,      3,      4,      5,      6,      7,      8,      9,      10,     11,     12,     13      15      16      17      18      19      20      21      22      23      24]    
+[   'C',    'C#/bD','D',    'D#/Eb','E',    'F',    'F#/bG','G',    'G#/bA','A',    'A#/bB','B',    'C',    'C#/bD','D',    'D#/Eb','E',    'F',    'F#/bG','G',    'G#/bA','A',    'A#/bB','B',
+}
+
+
+
+
+Majeur drieklank
+
+( I ) Tonica 
+( IV ) Subdominant
+( V ) Dominant
+
+(drieklank)
+(Majeur)
+(Majeur)
+(T, M3, P5)
+(0, 4, 9),  (5, 9, 12), (7, 11, 15), 
+(C, E, G),  (F, A, C),  (G, B, A,)
+(I)         (IV)        (V)
+
+Mineur drieklank
+
+( ii )
+( iii )
+( vi )
+
+(drieklank)
+(Majeur)
+(Mineur)
+(T, m3, P5)
+(2, 4, 9),  (4, 7, 11), (9, 12, 17)
+(D, F, A),  (E, G, B),  (A, C, E)
+(ii)        (iii)       (vi)
+
+_(drieklank)
+_(Sus2)
+_("Suspended Second", "GroteSecunde")
+-(T, G2, P5)
+--(0, 2, 5),  (4, 7, 11), (9, 12, 17)
+---(D, F, A),  (E, G, B),  (A, C, E)
+-----(ii)        (iii)       (vi)
+
+Sus2 drieklank
+
+( I )
+( II )
+( IV )
+( V )
+( VI )
+
+(drieklank)
+(Majeur)
+(Sus2)
+(T, 2, P5)
+(0, 2, 7),  (4, 7, 11), (9, 12, 17)*    
+(C, D, G),  (E, G, B),  (A, C, E)*
+(Isus2)     (iisus2)    (IVsus2)    (Vsus2) (visus2) 
+
+
+
+Sus4
+( I )
+( II )
+( III )
+( V )
+( VI )
+
+Dim
+( VII )
+
+6
+( I )
+( IV )
+( V )
+
+6/9
+( I )
+( IV )
+( V )
+
+m6
+(ii)
+
+m6/9
+( ii )
+
+Maj7
+( I )
+( IV )
+
+Maj7 (9)
+( I )
+( IV )
+
+Maj7 ( 9/13 )
+( I )
+( IV )
+
+7
+( V )
+
+7 (9)
+( V )
+
+min 7
+( ii )
+( vi )
+
+min 7 ( 9 )
+( ii )
+( vi )
+
+min 7 ( 9/11 )
+( ii )
+( vi )
+
+Halfverminderd
+( VII )
+
+Dubbelverminderd
+( VII )
+
+Hardverminderd
+( IV )
+
+7sus2
+( II )
+( V )
+( VI )
+
+7sus4
+( II )
+( III )
+( V )
+( vi )
+
+7Msus2
+( I )
+( IV )
+
+7Msus4
+( I )
+
+9
+( I )
+( IV )
+( V )

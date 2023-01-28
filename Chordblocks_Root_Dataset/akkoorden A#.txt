@@ -1,0 +1,56 @@
+A♯ 	A♯ majeur 	a♯ 	c♯♯ 	e♯ 	
+-
+A♯m 	A♯ mineur 	a♯ 	c♯ 	e♯ 	
+-
+A♯+ 	A♯ overmatig 	a♯ 	c♯♯ 	e♯♯ 	
+-
+A♯dim 	A♯ verminderd 	a♯ 	c♯ 	e 	
+-
+A♯sus2 	A♯ sus2 		a♯ 	b♯ 	e♯ 	
+-
+A♯sus4 	A♯ sus4 		a♯ 	d♯ 	e♯
+
+--
+
+A♯maj7 	A majeur septiem 		a♯ 	c♯♯ 	e♯ 	g♯♯
+-
+A♯7 	A♯ dominant septiem 		a♯ 	c♯♯ 	e♯ 	g♯
+-
+A♯m maj7	A♯ mineur majeur septiem 	a♯ 	c♯ 	e♯ 	g♯♯
+-
+A♯m7 	A♯ mineur septiem 		a♯ 	c♯ 	e♯ 	g♯
+-
+A♯7sus4 					a♯ 	d♯ 	e♯ 	g♯
+-
+A♯ø7 (A♯m7♭5)
+A halfverminderd septiem 		a♯ 	c♯ 	e 	g♯
+-
+A♯o7 	A♯ verminderd septiem 		a♯ 	c♯ 	e 	g 
+-
+A♯7♭5 	A♯ hardverminderd septiem 	a♯ 	c♯♯ 	e 	g♯
+-
+A♯maj7♯5 A♯ overmatig septiem 		a♯ 	c♯♯ 	e♯♯ 	g♯♯
+-
+A♯7♯5 	A♯ overmatig dominant 		a♯ 	c♯♯ 	e♯♯ 	g♯
+-
+A♯6 	A♯ sext 				a♯ 	c♯♯ 	e♯ 	f♯♯
+-
+A♯m6 	A♯ mineur sext 			a♯ 	c♯ 	e♯ 	f♯♯
+
+--
+
+A♯maj9 	A♯ majeur none 			a♯ 	c♯♯ 	e♯ 	g♯♯ 	b♯
+-
+A♯9 	A♯ dominant none 		a♯ 	c♯♯ 	e♯ 	g♯ 	b♯
+-
+A♯m maj9	A♯ mineur majeur none 		a♯ 	c♯ 	e♯ 	g♯♯ 	b♯
+-
+A♯m9 	A♯ mineur none 			a♯ 	c♯ 	e♯ 	g♯ 	b♯
+-
+A♯7♭9 	A♯ dominant septiem kleine none 	a♯ 	c♯♯ 	e♯ 	g♯ 	b
+-
+A♯7♯9 	A♯ dominant septiem overm. none 	a♯ 	c♯♯ 	e♯ 	g♯ 	b♯♯
+-
+A♯6 9 	A♯ sext none 			a♯ 	c♯♯ 	e♯ 	f♯♯ 	b♯
+-
+A♯m6 9 	A♯ mineur sext none 		a♯ 	c♯ 	e♯ 	f♯♯ 	b♯

@@ -1,0 +1,54 @@
+F 	F majeur 	f 	a 	c
+-
+Fm 	F mineur 	f 	a♭ 	c
+-
+F+ 	F overmatig 	f 	a 	c♯
+-
+Fdim 	F verminderd 	f 	a♭ 	c♭
+-
+Fsus2 	F sus2 		f 	g 	c
+-
+Fsus4 	F sus4 		f 	b♭ 	c
+
+--
+
+Fmaj7 	F majeur septiem 		f 	a 	c 	e
+-
+F7 	F dominant septiem 		f 	a 	c 	e♭
+-
+Fm maj7 F mineur majeur septiem 	f 	a♭ 	c 	e
+-
+Fm7 	F mineur septiem 		f 	a♭ 	c 	e♭
+-
+F7sus4 					f 	b♭ 	c 	e♭
+-
+Fø7 (Fm7♭5)
+F halfverminderd septiem 		f 	a♭ 	c♭ 	e♭
+-
+Fo7 	F verminderd septiem 		f 	a♭ 	c♭ 	e♭♭
+-
+Fmaj7♯5 	F overmatig septiem 		f 	a 	c♯ 	e
+-
+F7♯5 	F overmatig dominant 		f 	a 	c♯ 	e♭
+-
+F6 	F sext 				f 	a 	c 	d
+-
+Fm6 	F mineur sext 			f 	a♭ 	c 	d
+
+--
+
+Fmaj9 	F majeur none 			f 	a 	c 	e 	g
+-
+F9 	F dominant none 		f 	a 	c 	e♭ 	g
+-
+Fm maj9 F mineur majeur none 		f 	a♭ 	c 	e 	g
+-
+Fm9 	F mineur none 			f 	a♭ 	c 	e♭ 	g
+-
+F7♭9 	F dominant septiem kleine none 	f 	a 	c 	e♭ 	g♭
+-
+F7♯9 	F dominant septiem overm. none 	f 	a 	c 	e♭ 	g♯
+-
+F6 9 	F sext none 			f 	a 	c 	d 	g
+-
+Fm6 9 	F mineur sext none 		f 	a♭ 	c 	d 	g

@@ -1,0 +1,59 @@
+musical concepts
+
+the mapping of musical concepts contains a few parameters by wich to sort the groups
+
+we could establish within sets and these could serve as tags containing datasets
+
+At the core they are stored in a tag called concepts
+
+A concept is a musical application that executes a set of parameters forming its own dataset of information portraying the concept
+
+This data contains
+
+A display both audial as visual
+0
+Types of musical genres
+
+Chordblock
+
+Chord Type,
+  Notation
+  Containing notes
+  Scale application
+
+Mood, Application
+by genre
+by rhythmic
+  function,
+  metrics,
+
+Note = 0,1,2,3,4,5,6,7,8,9,10,11
+0 = c
+1 = csharp or dflat
+2 = d
+3 = dsharp or eflat
+4 = e
+5 = f
+6 = fsharp or gflat
+7 = g
+8 = gsharp or aflat
+9 = a
+10 = asharp or bflat
+11 = b
+
+
+Chordblock
+Note1
+Note2
+Note3
+Note4
+Note5
+Note6
+Note7
+Note8
+
+listenforthe amount of Notes
+if 1 = Corenote, display:  "Note"
+if 2 = interval, display: "interval"
+if 3 = triad, display "Triad"
+if 4 = Dominant/septiem, ""

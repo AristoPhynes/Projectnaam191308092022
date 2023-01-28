@@ -1,0 +1,56 @@
+D♭ 	D♭ majeur 	d♭ 	f 	a♭
+-
+D♭m 	D♭ mineur 	d♭ 	f♭ 	a♭
+-
+D♭+ 	D♭ overmatig 	d♭ 	f 	a
+-
+D♭dim 	D♭ verminderd 	d♭ 	f♭ 	a♭♭
+-
+D♭sus2 	D♭ sus2 		d♭ 	e♭ 	a♭
+-
+D♭sus4 	D♭ sus4 		d♭ 	g♭ 	a♭
+
+--
+
+D♭maj7 	D♭ majeur septiem 		d♭ 	f 	a♭ 	c
+-
+D♭7 	D♭ dominant septiem 		d♭ 	f 	a♭ 	c♭
+-
+D♭m maj7	D♭ mineur majeur septiem 	d♭ 	f♭ 	a♭ 	c
+-
+D♭m7 	D♭ mineur septiem 		d♭ 	f♭ 	a♭ 	c♭
+-
+D♭7sus4 					d♭ 	g♭ 	a♭ 	c♭
+-
+D♭ø7 (D♭m7♭5) 	
+D♭ halfverminderd septiem 		d♭ 	f♭ 	a♭♭ 	c♭
+-
+D♭o7 	D♭ verminderd septiem 		d♭ 	f♭ 	a♭♭ 	c♭♭
+-
+D♭7♭5 	D♭ hardverminderd septiem 	d♭ 	f 	a♭♭ 	c♭
+-
+D♭maj7♯5 D♭ overmatig septiem 		d♭ 	f 	a 	c
+-
+D♭7♯5 	D♭ overmatig dominant 		d♭ 	f 	a 	c♭
+-
+D♭6 	D♭ sext 				d♭ 	f 	a♭ 	b♭
+-
+D♭m6 	D♭ mineur sext 			d♭ 	f♭ 	a♭ 	b♭
+
+--
+
+D♭maj9 	D♭ majeur none 			d♭ 	f 	a♭ 	c 	e♭
+-
+D♭9 	D♭ dominant none 		d♭ 	f 	a♭ 	c♭ 	e♭
+-
+D♭m maj9	D♭ mineur majeur none 		d♭ 	f♭ 	a♭ 	c 	e♭
+-
+D♭m9 	D♭ mineur none 			d♭ 	f♭ 	a♭ 	c♭ 	e♭
+-
+D♭7♭9 	D♭ dominant septiem kleine none 	d♭ 	f 	a♭ 	c♭ 	e♭♭
+-
+D♭7♯9 	D♭ dominant septiem overm. none 	d♭ 	f 	a♭ 	c♭ 	e
+-
+D♭6 9 	D♭ sext none 			d♭ 	f 	a♭ 	b♭	e♭
+-
+D♭m6 9 	D♭ mineur sext none 		d♭ 	f♭ 	a♭ 	b♭	e♭

@@ -1,0 +1,56 @@
+C 	C majeur 	c 	e 	g
+-
+Cm 	C mineur 	c 	e♭ 	g
+-
+C+ 	C overmatig 	c 	e 	g♯
+-
+Cdim 	C verminderd 	c 	e♭ 	g♭
+-
+Csus2 	C sus2 		c 	d 	g
+-
+Csus4 	C sus4 		c 	f 	g
+
+--
+
+Cmaj7 	C majeur septiem 		c 	e 	g 	b
+-
+C7 	C dominant septiem 		c 	e 	g 	b♭
+-
+Cm maj7 C mineur majeur septiem 	c 	e♭ 	g 	b
+-
+Cm7 	C mineur septiem 		c 	e♭ 	g 	b♭
+-
+C7sus4 					c 	f 	g 	b♭
+-
+Cø7 (Cm7♭5)
+C halfverminderd septiem 		c 	e♭ 	g♭ 	b♭
+-
+Co7 	C verminderd septiem 		c 	e♭ 	g♭ 	b♭♭
+-
+C7♭5 	C hardverminderd septiem 	c 	e 	g♭ 	b♭
+-
+Cmaj7♯5 	C overmatig septiem 		c 	e 	g♯ 	b
+-
+C7♯5 	C overmatig dominant 		c 	e 	g♯ 	b♭
+-
+C6 	C sext 				c 	e 	g 	a
+-
+Cm6 	C mineur sext 			c 	e♭ 	g 	a
+
+--
+
+Cmaj9 	C majeur none 			c 	e 	g 	b 	d
+-
+C9 	C dominant none 		c 	e 	g 	b♭ 	d
+-
+Cm maj9 C mineur majeur none 		c 	e♭ 	g 	b 	d
+-
+Cm9 	C mineur none 			c 	e♭ 	g 	b♭ 	d
+-
+C7♭9 	C dominant septiem kleine none 	c 	e 	g 	b♭ 	d♭
+-
+C7♯9 	C dominant septiem overm. none 	c 	e 	g 	b♭ 	d♯
+-
+C6 9 	C sext none 			c 	e 	g 	a 	d
+-
+Cm6 9 	C mineur sext none 		c 	e♭ 	g 	a 	d

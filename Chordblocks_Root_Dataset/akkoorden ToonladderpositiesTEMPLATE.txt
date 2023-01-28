@@ -1,0 +1,73 @@
+								1	2	3	4	5	6	7	8	9	10	11	12	13
+						Zero-Based	0	1	2	3	4	5	6	7	8	9	10	11	12
+x	x	x	x	x	x	x	x	C	C#	D	D#	E	F	F#	G	G#	A	A#	B	C	x	x	x	x	x	x	x
+
+	x	x	x	x	x	x	x	C	C#	D	D#	E	F	F#	G	G#	A	A#	B	C	x	x	x	x	x	x	x
+
+[Tonica] 	[Tonica] majeur 	I 	ii 	V
+-
+[Tonica]m 	[Tonica] mineur 	I 	iii♭ 	V
+-
+[Tonica]+ 	[Tonica] overmatig 	I 	iii 	V♯
+-
+[Tonica]dim 	[Tonica] verminderd 	I 	iii♭ 	V♭
+-
+[Tonica]sus2 	[Tonica] sus2 		I 	ii 	V
+-
+[Tonica]sus4 	[Tonica] sus4 		I 	IV 	V
+
+--
+
+[Tonica]maj7 	[Tonica] majeur septiem 		I 	iii 	V 	VII
+-
+[Tonica]7 	[Tonica] dominant septiem 		I 	iii 	V 	VII♭
+-
+[Tonica]m maj7 [Tonica] mineur majeur septiem 		I 	iii♭ 	V 	VII
+-
+[Tonica]m7 	[Tonica] mineur septiem 		I 	iii♭ 	V 	VII♭
+-
+[Tonica]7sus4 						I 	IV 	V 	VII♭
+-
+[Tonica]ø7 ([Tonica]m7♭5)
+[Tonica] halfverminderd septiem 			I 	iii♭ 	V♭ 	VII♭
+-
+[Tonica]o7 	[Tonica] verminderd septiem 		I 	iii♭ 	V♭ 	VII♭♭
+-
+[Tonica]7♭5 	[Tonica] hardverminderd septiem 	I 	iii 	V♭ 	VII♭
+-
+[Tonica]maj7♯5 	[Tonica] overmatig septiem 		I 	iii 	V♯ 	VII
+-
+[Tonica]7♯5 	[Tonica] overmatig dominant 		I 	iii 	V♯ 	VII♭
+-
+[Tonica]6 	[Tonica] sext 				I 	iii 	V 	VII
+-
+[Tonica]m6 	[Tonica] mineur sext 			I 	iii♭ 	V 	VII
+
+--
+
+[Tonica]maj9 	[Tonica] majeur none 			I 	iii 	V 	VII 	ix
+-
+[Tonica]9 	[Tonica] dominant none 			I 	iii 	V 	VII♭ 	ix
+-
+[Tonica]m maj9 [Tonica] mineur majeur none 		I 	iii♭ 	V 	VII 	ix
+-
+[Tonica]m9 	[Tonica] mineur none 			I 	iii♭ 	V 	VII♭ 	ix
+-
+[Tonica]7♭9 	[Tonica] dominant septiem kleine none 	I 	iii 	V 	VII♭ 	ix♭
+-
+[Tonica]7♯9 	[Tonica] dominant septiem overm. none 	I 	iii 	V 	VII♭ 	ix♯
+-
+[Tonica]6 9 	[Tonica] sext none 			I 	iii 	V 	vi 	ix
+-
+[Tonica]m6 9 	[Tonica] mineur sext none 		I 	iii♭ 	V 	vi 	ix
+
+---
+
+Chord root 	Chord quality 	1 	3 	5 	7 	9 	11 	13
+I 		IM13 		♮ 	♮ 	♮ 	♮ 	♮ 	♮ 	♮
+ii 		iim13 		♮ 	♭ 	♮ 	♭ 	♮ 	♮ 	♮
+iii 		iiim7♭9♭13 	♮ 	♭ 	♮ 	♭ 	♭ 	♮ 	♭
+IV 		IVM13♯11 	♮ 	♮ 	♮ 	♮ 	♮ 	♯ 	♮
+V 		V13 		♮ 	♮ 	♮ 	♭ 	♮ 	♮ 	♮
+vi 		vim7♭13 		♮ 	♭ 	♮ 	♭ 	♮ 	♮ 	♭
+viio 		viiø7♭9♭13 	♮ 	♭ 	♭ 	♭ 	♭ 	♮ 	♭

@@ -1,0 +1,53 @@
+G 	G majeur 	g 	b 	d
+-
+Gm 	G mineur 	g 	b♭ 	d
+-
+G+ 	G overmatig 	g 	b 	d♯
+-
+Gdim 	G verminderd 	g 	b♭ 	d♭
+-
+Gsus2 	G sus2 		g 	a 	d
+-
+Gsus4 	G sus4 		g 	c 	d
+
+--
+
+Gmaj7 	G majeur septiem 		g 	b 	d 	f♯
+-
+G7 	G dominant septiem 		g 	b 	d 	f
+-
+Gm maj7 G mineur majeur septiem 	g 	b♭ 	d 	f♯
+-
+Gm7 	G mineur septiem 		g 	b♭ 	d 	f
+-
+G7sus4 					g 	c 	d 	f
+-
+Gø7 (Gm7♭5)
+G halfverminderd septiem 		g 	b♭ 	d♭ 	f
+-
+Go7 	G verminderd septiem 		g 	b♭ 	d♭ 	f♭
+-
+G7♭5 	G hardverminderd septiem	g 	b 	d♭ 	f
+-
+Gmaj7♯5 	G overmatig septiem 		g 	b 	d♯ 	f♯
+-
+G7♯5 	G overmatig dominant 		g 	b 	d♯ 	f
+-
+G6 	G sext 				g 	b 	d 	e
+-
+Gm6 	G mineur sext 			g 	b♭ 	d 	e
+
+--
+
+Gmaj9 	G majeur none 			g 	b 	d 	f♯ 	a
+-
+G9 	G dominant none 		g 	b 	d 	f 	a
+-
+Gm maj9 G mineur majeur none 		g 	b♭ 	d 	f♯ 	a
+-
+Gm9 	G mineur none 			g 	b♭ 	d 	f 	a
+-
+G7♭9 	G dominant septiem kleine none 	g 	b 	d 	f 	a♭
+G7♯9 	G dominant septiem overm. none 	g 	b 	d 	f 	a♯
+G6 9 	G sext none 			g 	b 	d 	e 	a
+Gm6 9 	G mineur sext none 		g 	b♭ 	d 	e 	a

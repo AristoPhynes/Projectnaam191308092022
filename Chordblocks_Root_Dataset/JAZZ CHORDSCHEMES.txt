@@ -1,0 +1,51 @@
+---Jazz Guitar Chord Progression 1 – ii V I Major
+iim7	V7	Imaj7
+--
+Dm7	G7	Cmaj7	%
+---Jazz Guitar Chord Progressions 2 – Rhythm Changes
+Cmaj7 Am7	Dm7 G7	Em7 A7	Dm7 G7
+--
+Imaj7 vim7	iim7 V7	iiim7 VI7	iim7 V7
+---Jazz Guitar Chord Progressions 3 – Descending ii V I
+Imaj7	%	(iim7	V7)
+Imaj7	%	(iim7	V7)
+Imaj7	%	(iim7	V7)
+--
+Cmaj7	%	Cm7	F7
+Bbmaj7	%	Bbm7	Eb7
+Abmaj7	%	Abm7	Db7
+---Jazz Guitar Chord Progressions 4 – Dim7 Passing Chords
+Cmaj7 C#°7	Dm7 D#°7	Em7 A7
+--
+Imaj7 #I°7	iim7 #II°7	iiim7 VI7
+---Jazz Guitar Chord Progressions 5 – Take the A Train
+Imaj7	%	II7	%
+iim7	V7	Imaj7	%
+--
+Cmaj7	%	D7	%
+Dm7	G7	Cmaj7	%
+---Jazz Guitar Chord Progressions 6 – I to IV
+Imaj7	(iim7 V7)	IVmaj7
+--
+Cmaj7	Gm7 C7	Fmaj7
+---Jazz Guitar Chord Progressions 7 – IV to iv Minor
+Imaj7	I7	IVmaj7	ivm7
+iiim7VI7	iim7V7	Imaj7	%
+--
+Cmaj7	C7	Fmaj7	Fm7
+Em7A7	Dm7G7	Cmaj7	%
+---Jazz Guitar Chord Progressions 8 – Rhythm Changes Bridge
+III7	VI7	II7	V7
+--
+D7	G7	C7	F7
+---Jazz Guitar Chord Progressions 9 – ii V I Minor
+iim7b5	V7	im7	%
+--
+Dm7b5	G7	Cm7	%
+---Jazz Guitar Chord Progressions 10 – Stray Cat Strut
+im7 im7/b7	bVI7 V7
+--
+Cm7 Cm7/Bb	Ab7 G7
+---
+
+
